@@ -1,0 +1,9 @@
+* {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.business-card {
+    border-color: black;
+    border: 1px;
+    border-style: solid;
+}
